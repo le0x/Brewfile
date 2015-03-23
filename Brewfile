@@ -21,6 +21,10 @@ cask install transmit
 cask install vagrant
 cask install virtualbox
 
+## caskroom/versions
+tap caskroom/versions
+cask install firefox-ja
+
 ## homebrew/dupes
 tap homebrew/dupes
 install whois
@@ -44,6 +48,7 @@ install freetype
 install gdbm
 install gettext
 install git
+install hub
 install icu4c
 install jpeg
 install libpng
