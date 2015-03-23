@@ -4,9 +4,23 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install 1password
+cask install adobe-creative-cloud
+cask install bettertouchtool
+cask install cheatsheet
+cask install coda
+cask install codekit
+cask install coteditor
+cask install dropbox
+cask install github
+cask install google-chrome
+cask install karabiner
+cask install sourcetree
+cask install transmit
 
 ## homebrew/dupes
 tap homebrew/dupes
+install whois
 install zlib
 
 ## josegonzalez/php
@@ -41,7 +55,6 @@ install sqlite
 install unixodbc
 install vim --with-lua
 install wget
-install whois
 
 # App Store applications
 appstore Airmail
