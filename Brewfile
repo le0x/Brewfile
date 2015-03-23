@@ -14,9 +14,12 @@ cask install coteditor
 cask install dropbox
 cask install github
 cask install google-chrome
+cask install imageoptim
 cask install karabiner
 cask install sourcetree
 cask install transmit
+cask install vagrant
+cask install virtualbox
 
 ## homebrew/dupes
 tap homebrew/dupes
