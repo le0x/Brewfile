@@ -81,3 +81,4 @@ appstore Reeder
 appstore Slicy
 appstore The Unarchiver
 appstore Xcode
+appstore YoruFukurou
