@@ -25,6 +25,7 @@ cask install virtualbox
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
+cask install sublime-text3
 
 ## homebrew/dupes
 tap homebrew/dupes
@@ -33,7 +34,7 @@ install zlib
 
 ## josegonzalez/php
 tap josegonzalez/php
-install php55 --without-apache
+install php55 --without-apache --without-apache
 
 ## marcqualie/nginx
 tap marcqualie/nginx
@@ -45,6 +46,8 @@ install brew-file
 
 # Other Homebrew packages
 install ansible
+install cmake
+install editorconfig
 install freetype
 install gdbm
 install gettext
@@ -56,6 +59,7 @@ install libpng
 install libyaml
 install lua
 install mysql
+install nodebrew
 install openssl
 install pcre
 install python
