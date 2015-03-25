@@ -6,6 +6,7 @@ tap caskroom/cask
 install brew-cask
 cask install 1password
 cask install adobe-creative-cloud
+cask install appcleaner
 cask install bettertouchtool
 cask install cheatsheet
 cask install coda
