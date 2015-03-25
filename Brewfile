@@ -34,7 +34,7 @@ install zlib
 
 ## josegonzalez/php
 tap josegonzalez/php
-install php55 --without-apache --without-apache
+install php55 --without-apache
 
 ## marcqualie/nginx
 tap marcqualie/nginx
