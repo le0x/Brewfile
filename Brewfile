@@ -18,6 +18,7 @@ cask install google-chrome
 cask install hosts
 cask install imageoptim
 cask install karabiner
+cask install macwinzipper
 cask install sourcetree
 cask install transmit
 cask install vagrant
@@ -49,6 +50,7 @@ install brew-file
 install ansible
 install cmake
 install editorconfig
+install fcrackzip
 install freetype
 install gdbm
 install gettext
@@ -74,6 +76,7 @@ install wget
 appstore Airmail
 appstore Clean
 appstore Display Menu
+appstore DrCleaner
 appstore GarageBand
 appstore iMovie
 appstore iPhoto
