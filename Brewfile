@@ -7,12 +7,15 @@ install brew-cask
 cask install 1password
 cask install adobe-creative-cloud
 cask install appcleaner
+cask install atom
 cask install bettertouchtool
 cask install cheatsheet
 cask install coda
 cask install codekit
+cask install colors
 cask install coteditor
 cask install dropbox
+cask install flux
 cask install github
 cask install google-chrome
 cask install hosts
