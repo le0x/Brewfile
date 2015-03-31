@@ -53,12 +53,14 @@ install brew-file
 # Other Homebrew packages
 install ansible
 install cmake
+install coreutils
 install editorconfig
 install fcrackzip
 install freetype
 install gdbm
 install gettext
 install git
+install git-flow
 install hub
 install icu4c
 install jpeg
