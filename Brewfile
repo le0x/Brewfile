@@ -6,6 +6,7 @@ tap caskroom/cask
 install brew-cask
 cask install 1password
 cask install adobe-creative-cloud
+cask install alfred
 cask install appcleaner
 cask install atom
 cask install bettertouchtool
