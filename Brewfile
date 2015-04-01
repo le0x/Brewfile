@@ -16,7 +16,6 @@ cask install codekit
 cask install colors
 cask install coteditor
 cask install dropbox
-cask install flux
 cask install github
 cask install google-chrome
 cask install hosts
