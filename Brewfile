@@ -22,6 +22,7 @@ cask install hosts
 cask install imageoptim
 cask install karabiner
 cask install macwinzipper
+cask install skype
 cask install sourcetree
 cask install transmit
 cask install vagrant
