@@ -27,6 +27,7 @@ cask install sourcetree
 cask install transmit
 cask install vagrant
 cask install virtualbox
+cask install xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
