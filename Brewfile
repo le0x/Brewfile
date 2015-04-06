@@ -18,7 +18,6 @@ cask install coteditor
 cask install dropbox
 cask install github
 cask install google-chrome
-cask install hosts
 cask install imageoptim
 cask install karabiner
 cask install macwinzipper
