@@ -38,13 +38,16 @@ tap homebrew/dupes
 install whois
 install zlib
 
-## josegonzalez/php
-tap josegonzalez/php
-install php55 --without-apache
+## homebrew/php
+tap homebrew/php
+install php56-apcu
+install php56-xdebug
+install php56 --without-pear
+install phpmyadmin
 
 ## marcqualie/nginx
 tap marcqualie/nginx
-install nginx-full --with-sub
+install nginx-full
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -52,9 +55,11 @@ install brew-file
 
 # Other Homebrew packages
 install ansible
+install autoconf
 install cmake
 install coreutils
 install editorconfig
+install emacs
 install fcrackzip
 install freetype
 install gdbm
