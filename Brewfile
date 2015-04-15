@@ -87,7 +87,6 @@ install wget
 appstore Airmail
 appstore Clean
 appstore Display Menu
-appstore DrCleaner
 appstore GarageBand
 appstore iMovie
 appstore iPhoto
