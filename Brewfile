@@ -98,6 +98,7 @@ brew readline
 brew ruby
 brew ruby-build
 brew sqlite
+brew terminal-notifier
 brew unixodbc
 brew vim --with-lua --with-lua --with-lua --with-lua --with-lua --with-lua
 brew wget
