@@ -59,6 +59,7 @@ brew editorconfig
 brew emacs
 brew faac
 brew fcrackzip
+brew ffmpeg --with-libvpx --with-libvorbis --with-openjpeg --with-ffplay --with-tools
 brew freetype
 brew gdbm
 brew gettext
@@ -95,6 +96,7 @@ brew unixodbc
 brew vim --with-lua
 brew wget
 brew x264
+brew x265
 brew xvid
 brew zlib
 
