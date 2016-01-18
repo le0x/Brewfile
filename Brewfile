@@ -1,21 +1,16 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask 1password
 cask adobe-creative-cloud
-cask alfred
 cask android-studio
 cask appcleaner
 cask atom
 cask bettertouchtool
 cask brackets
 cask cheatsheet
-cask coda
-cask codekit
-cask colors
 cask coteditor
 cask dropbox
 cask genymotion
@@ -29,17 +24,13 @@ cask sourcetree
 cask transmit
 cask vagrant
 cask virtualbox
-cask xtrafinder
 
-## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
 
-## homebrew/dupes
 tap homebrew/dupes
 brew whois
 
-## homebrew/php
 tap homebrew/php
 brew php56-apcu
 brew php56-mcrypt
@@ -47,14 +38,14 @@ brew php56-xdebug
 brew php56
 brew phpmyadmin
 
-## homebrew/versions
 tap homebrew/versions
 
-## marcqualie/nginx
+tap le0x/auto-update
+brew homebrew-auto-update
+
 tap marcqualie/nginx
 brew nginx-full
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
@@ -99,8 +90,9 @@ brew ruby
 brew ruby-build
 brew sqlite
 brew terminal-notifier
+brew tree
 brew unixodbc
-brew vim --with-lua --with-lua --with-lua --with-lua --with-lua --with-lua
+brew vim --with-lua
 brew wget
 brew x264
 brew xvid
@@ -109,14 +101,12 @@ brew zlib
 # App Store applications
 appstore Airmail
 appstore Clean
-appstore Display Menu
 appstore FontPreview
 appstore GarageBand
 appstore iMovie
 appstore Install OS X El Capitan
 appstore iPhoto
 appstore Keynote
-appstore LanScan
 appstore LINE
 appstore Mail Pilot
 appstore Memory Clean
