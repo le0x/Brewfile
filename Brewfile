@@ -13,12 +13,10 @@ cask atom
 cask bettertouchtool
 cask brackets
 cask cheatsheet
-cask coda
-cask codekit
 cask colors
 cask coteditor
 cask dropbox
-cask github
+cask genymotion
 cask google-chrome
 cask imageoptim
 cask karabiner
@@ -33,18 +31,16 @@ cask xtrafinder
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
-cask sublime-text3
 
 ## homebrew/dupes
 tap homebrew/dupes
 brew whois
-brew zlib
 
 ## homebrew/php
 tap homebrew/php
 brew php56-apcu
 brew php56-xdebug
-brew php56 --without-pear --without-pear --without-pear --without-pear --without-pear
+brew php56
 brew phpmyadmin
 
 ## marcqualie/nginx
@@ -86,10 +82,11 @@ brew python
 brew readline
 brew sqlite
 brew unixodbc
-brew vim --with-lua --with-lua --with-lua
+brew vim --with-lua
 brew wget
 brew x264
 brew xvid
+brew zlib
 
 # App Store applications
 appstore Airmail
@@ -100,7 +97,9 @@ appstore GarageBand
 appstore iMovie
 appstore iPhoto
 appstore Keynote
+appstore LanScan
 appstore LINE
+appstore Mail Pilot
 appstore Memory Clean
 appstore Numbers
 appstore Pages
